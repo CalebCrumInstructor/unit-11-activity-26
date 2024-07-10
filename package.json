@@ -7,7 +7,6 @@
     "express": "^4.17.1"
   },
   "scripts": {
-    "install": "npm i",
     "start": "node server.js"
   }
 }
